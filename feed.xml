@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>AI Daily Digest</title>
+    <link>https://bronsonelliott.github.io/ai-digest-podcast</link>
+    <language>en-us</language>
+    <description>Daily AI newsletter briefing -- the signal, not the noise. Synthesized from 30+ newsletters every morning.</description>
+    <itunes:author>Bronson Elliott</itunes:author>
+    <itunes:owner>
+      <itunes:name>Bronson Elliott</itunes:name>
+      <itunes:email>bronson.elliott@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://bronsonelliott.github.io/ai-digest-podcast/cover.png"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <atom:link href="https://bronsonelliott.github.io/ai-digest-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- EPISODES_START -->
+    <!-- New episodes get inserted here by the scheduled task -->
+    <!-- EPISODES_END -->
+
+  </channel>
+</rss>
