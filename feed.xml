@@ -21,6 +21,15 @@
 
     <!-- EPISODES_START -->
     <item>
+      <title>AI Daily Digest - April 11, 2026</title>
+      <description>Claude Mythos Preview finds thousands of zero-days, Anthropic launches Project Glasswing. Enterprise AI crosses 54% agent deployment but leadership crisis deepens. Perplexity connects to bank accounts via Plaid.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-04-11.mp3" length="12652077" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-04-11</guid>
+      <pubDate>Sat, 11 Apr 2026 05:00:00 -0500</pubDate>
+      <itunes:duration>13:10</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
       <title>AI Daily Digest - April 10, 2026</title>
       <description>Anthropic's Mythos Preview finds 27-year-old security flaws. Meta abandons open source with Muse Spark. Anthropic ships Managed Agents, Advisor, Monitor, and Cowork GA.</description>
       <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-04-10.mp3" length="4613904" type="audio/mpeg"/>
