@@ -21,6 +21,14 @@
 
     <!-- EPISODES_START -->
     <item>
+      <title>AI Daily Digest - April 15, 2026</title>
+      <description>Daily AI newsletter briefing for April 15, 2026.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-04-15.mp3" length="5958573" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-04-15</guid>
+      <pubDate>Tue, 14 Apr 2026 21:17:39 -0500</pubDate>
+      <itunes:duration>06:12</itunes:duration>
+    </item>
+    <item>
       <title>AI Daily Digest - April 14, 2026</title>
       <description>Stanford AI Index exposes massive insider-vs-public perception gap. Harness engineering emerges as the new discipline. Dark code crisis hits Amazon. Anthropic explores custom chips, Mythos triggers Fed bank CEO summit, Claude Code gets Coordinator Mode. DeepMind maps AI agent web traps. Local models roundup: Qwen 3.5 leads.</description>
       <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-04-14.mp3" length="12331437" type="audio/mpeg"/>
