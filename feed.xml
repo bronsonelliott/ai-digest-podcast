@@ -18,9 +18,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://bronsonelliott.github.io/ai-digest-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 16 Apr 2026 07:29:29 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:35:00 -0500</lastBuildDate>
 
     <!-- EPISODES_START -->
+    <item>
+      <title>AI Daily Digest - April 16, 2026</title>
+      <description>Daily AI newsletter briefing for April 16, 2026.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-04-16.mp3" length="18460461" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-04-16</guid>
+      <pubDate>Thu, 16 Apr 2026 07:35:00 -0500</pubDate>
+      <itunes:duration>19:13</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+    </item>
     <item>
       <title>AI Daily Digest - April 15, 2026</title>
       <description>OpenAI leaked memo attacks Anthropic. Sam Altman Molotov attack and Stanford AI Index explain the AI populism crisis. Meta builds AI Zuckerberg clone. Anthropic Mythos triggers emergency bank CEO briefings. Microsoft builds OpenClaw competitor. Claude Cowork goes GA.</description>
