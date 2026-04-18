@@ -18,9 +18,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://bronsonelliott.github.io/ai-digest-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 17 Apr 2026 05:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 08:08:00 -0500</lastBuildDate>
 
     <!-- EPISODES_START -->
+    <item>
+      <title>AI Daily Digest - April 18, 2026</title>
+      <description>Claude Opus 4.7 doubles down on Sonnet's "delegate-don't-micromanage" gospel. OpenAI Codex leaves the terminal for the desktop with a mono-thread memory pattern. Claude Design + Figma board drama and an Anthropic CPO departure. Perplexity debuts a "Personal Computer." Infrastructure and memory pipes get loud: Cloudflare, Ollama 0.21 + Hermes, Qwen3.6-35B-A3B, Ternary Bonsai. The physical bill comes due: NAACP vs. xAI Memphis, OpenAI + Cerebras $20B. Plus: Moonshot Kimi, Windsurf 2.0, Chrome AI Mode, GPT-Rosalind, Meta pivoting from open weights, a $70M AI movie, and a through-line on who owns the desktop, the memory, the chips, and pays the power bill.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-04-18.mp3" length="17219373" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-04-18</guid>
+      <pubDate>Sat, 18 Apr 2026 08:08:00 -0500</pubDate>
+      <itunes:duration>17:56</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+    </item>
     <item>
       <title>AI Daily Digest - April 17, 2026</title>
       <description>Claude Opus 4.7 ships. OpenAI turns Codex into a superapp. Allbirds becomes NewBird AI. Gemini lands on Mac. Anthropic Mythos still withheld but federal agencies reportedly testing it. GPT-Rosalind goes vertical into life sciences. BBVA builds 20,000 custom GPTs.</description>
