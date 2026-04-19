@@ -18,9 +18,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://bronsonelliott.github.io/ai-digest-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 18 Apr 2026 08:08:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 05:15:00 -0500</lastBuildDate>
 
     <!-- EPISODES_START -->
+    <item>
+      <title>AI Daily Digest - April 19, 2026</title>
+      <description>Claude Design lands as the weekend's top story (4 newsletters lead with it), pairing with Opus 4.7 to make Anthropic's full-stack builder pitch. OpenAI ships Codex on the desktop with computer-use; Cerebras moves toward IPO. Chrome AI Mode puts a Gemini pane next to every page. Luma launches Innovative Dreams, an AI production company, with a Ben Kingsley Moses film for Prime Video. Anthropic Signal: emotion-concepts paper draws a sharp Mike Elgan critique on framing. Agent infrastructure splits off from human infrastructure: Karpathy Loop, Ghost (Tiger Data) MCP-native Postgres, NVIDIA's local-agent guide on DGX Spark. Plus: Altman home attack, robotics roundup, Text2SQL vs semantic layer, and an AI Reality Check prompt worth running.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-04-19.mp3" length="16806573" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-04-19</guid>
+      <pubDate>Sun, 19 Apr 2026 05:15:00 -0500</pubDate>
+      <itunes:duration>17:30</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+    </item>
     <item>
       <title>AI Daily Digest - April 18, 2026</title>
       <description>Claude Opus 4.7 doubles down on Sonnet's "delegate-don't-micromanage" gospel. OpenAI Codex leaves the terminal for the desktop with a mono-thread memory pattern. Claude Design + Figma board drama and an Anthropic CPO departure. Perplexity debuts a "Personal Computer." Infrastructure and memory pipes get loud: Cloudflare, Ollama 0.21 + Hermes, Qwen3.6-35B-A3B, Ternary Bonsai. The physical bill comes due: NAACP vs. xAI Memphis, OpenAI + Cerebras $20B. Plus: Moonshot Kimi, Windsurf 2.0, Chrome AI Mode, GPT-Rosalind, Meta pivoting from open weights, a $70M AI movie, and a through-line on who owns the desktop, the memory, the chips, and pays the power bill.</description>
