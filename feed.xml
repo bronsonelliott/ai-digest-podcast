@@ -18,9 +18,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://bronsonelliott.github.io/ai-digest-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 19 Apr 2026 05:15:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 05:08:32 -0500</lastBuildDate>
 
     <!-- EPISODES_START -->
+    <item>
+      <title>AI Daily Digest - April 20, 2026</title>
+      <description>Daily AI newsletter briefing for April 20, 2026.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-04-20.mp3" length="19211949" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-04-20</guid>
+      <pubDate>Mon, 20 Apr 2026 05:08:32 -0500</pubDate>
+      <itunes:duration>20:00</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+    </item>
     <item>
       <title>AI Daily Digest - April 19, 2026</title>
       <description>Claude Design lands as the weekend's top story (4 newsletters lead with it), pairing with Opus 4.7 to make Anthropic's full-stack builder pitch. OpenAI ships Codex on the desktop with computer-use; Cerebras moves toward IPO. Chrome AI Mode puts a Gemini pane next to every page. Luma launches Innovative Dreams, an AI production company, with a Ben Kingsley Moses film for Prime Video. Anthropic Signal: emotion-concepts paper draws a sharp Mike Elgan critique on framing. Agent infrastructure splits off from human infrastructure: Karpathy Loop, Ghost (Tiger Data) MCP-native Postgres, NVIDIA's local-agent guide on DGX Spark. Plus: Altman home attack, robotics roundup, Text2SQL vs semantic layer, and an AI Reality Check prompt worth running.</description>
