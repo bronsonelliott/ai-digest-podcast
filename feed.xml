@@ -300,15 +300,6 @@
       <itunes:duration>09:07</itunes:duration>
       <itunes:episode>4</itunes:episode>
     </item>
-    <item>
-      <title>AI Daily Digest - April 12, 2026</title>
-      <description>Anthropic's Mythos breach triggers emergency Treasury-Fed-Wall Street meeting. Google's TurboQuant compresses KV cache 6x with zero accuracy loss. Slack ships Claude-powered Slackbot overhaul with reusable AI skills and MCP routing.</description>
-      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-04-12.mp3" length="9000237" type="audio/mpeg"/>
-      <guid isPermaLink="false">digest-2026-04-12</guid>
-      <pubDate>Sun, 12 Apr 2026 05:00:00 -0500</pubDate>
-      <itunes:duration>09:22</itunes:duration>
-      <itunes:episode>3</itunes:episode>
-    </item>
     <!-- EPISODES_END -->
 
   </channel>
