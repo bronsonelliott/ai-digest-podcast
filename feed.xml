@@ -300,15 +300,6 @@
       <itunes:duration>12:51</itunes:duration>
       <itunes:episode>5</itunes:episode>
     </item>
-    <item>
-      <title>AI Daily Digest - April 13, 2026</title>
-      <description>White House pushes Claude Mythos on Wall Street for cybersecurity. MirrorCode benchmark shows AI doing weeks-long coding tasks autonomously. Google merges NotebookLM into Gemini. Claude lands in Microsoft Word, Anthropic explores custom chips, and "Claude Mania" dominates HumanX.</description>
-      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-04-13.mp3" length="4818285" type="audio/mpeg"/>
-      <guid isPermaLink="false">digest-2026-04-13</guid>
-      <pubDate>Mon, 13 Apr 2026 05:00:00 -0500</pubDate>
-      <itunes:duration>09:07</itunes:duration>
-      <itunes:episode>4</itunes:episode>
-    </item>
     <!-- EPISODES_END -->
 
   </channel>
