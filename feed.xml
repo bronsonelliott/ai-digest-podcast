@@ -300,15 +300,6 @@
       <itunes:duration>19:35</itunes:duration>
       <itunes:episode>8</itunes:episode>
     </item>
-    <item>
-      <title>AI Daily Digest - April 16, 2026</title>
-      <description>Daily AI newsletter briefing for April 16, 2026.</description>
-      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-04-16.mp3" length="18460461" type="audio/mpeg"/>
-      <guid isPermaLink="false">digest-2026-04-16</guid>
-      <pubDate>Thu, 16 Apr 2026 07:35:00 -0500</pubDate>
-      <itunes:duration>19:13</itunes:duration>
-      <itunes:episode>7</itunes:episode>
-    </item>
     <!-- EPISODES_END -->
 
   </channel>
