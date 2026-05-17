@@ -18,9 +18,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://bronsonelliott.github.io/ai-digest-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 16 May 2026 05:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 05:00:05 -0500</lastBuildDate>
 
     <!-- EPISODES_START -->
+    <item>
+      <title>AI Daily Digest - May 17, 2026</title>
+      <description>Daily AI newsletter briefing for May 17, 2026.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-05-17.mp3" length="21034413" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-05-17</guid>
+      <pubDate>Sun, 17 May 2026 05:00:05 -0500</pubDate>
+      <itunes:duration>21:54</itunes:duration>
+      <itunes:episode>32</itunes:episode>
+    </item>
     <item>
       <title>AI Daily Digest - May 16, 2026</title>
       <description>Daily AI newsletter briefing for May 16, 2026.</description>
