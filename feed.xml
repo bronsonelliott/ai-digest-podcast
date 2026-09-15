@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>AI Daily Digest</title>
+    <link>https://bronsonelliott.github.io/ai-digest-podcast</link>
+    <language>en-us</language>
+    <description>Daily AI newsletter briefing -- the signal, not the noise. Synthesized from 30+ newsletters every morning.</description>
+    <itunes:author>Bronson Elliott</itunes:author>
+    <itunes:owner>
+      <itunes:name>Bronson Elliott</itunes:name>
+      <itunes:email>bronson.elliott@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://bronsonelliott.github.io/ai-digest-podcast/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <atom:link href="https://bronsonelliott.github.io/ai-digest-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Tue, 15 Sep 2026 05:00:02 -0500</lastBuildDate>
+
+    <!-- EPISODES_START -->
+    <item>
+      <title>AI Daily Digest - September 15, 2026</title>
+      <description>Daily AI newsletter briefing for September 15, 2026.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-09-15.mp3" length="22838061" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 05:00:02 -0500</pubDate>
+      <itunes:duration>23:47</itunes:duration>
+    </item>
+    <item>
+      <title>AI Daily Digest - September 14, 2026</title>
+      <description>Daily AI newsletter briefing for September 14, 2026.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-09-14.mp3" length="20701101" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 05:00:03 -0500</pubDate>
+      <itunes:duration>21:33</itunes:duration>
+    </item>
+    <item>
+      <title>AI Daily Digest - September 13, 2026</title>
+      <description>Daily AI newsletter briefing for September 13, 2026.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-09-13.mp3" length="19536429" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 05:00:05 -0500</pubDate>
+      <itunes:duration>20:20</itunes:duration>
+    </item>
+    <item>
+      <title>AI Daily Digest - September 12, 2026</title>
+      <description>Daily AI newsletter briefing for September 12, 2026.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-09-12.mp3" length="22729389" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 05:00:00 -0500</pubDate>
+      <itunes:duration>23:40</itunes:duration>
+    </item>
+    <item>
+      <title>AI Daily Digest - September 11, 2026</title>
+      <description>Daily AI newsletter briefing for September 11, 2026.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-09-11.mp3" length="21310125" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 -0500</pubDate>
+      <itunes:duration>22:11</itunes:duration>
+    </item>
+    <item>
+      <title>AI Daily Digest - September 10, 2026</title>
+      <description>Daily AI newsletter briefing for September 10, 2026.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-09-10.mp3" length="23743149" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-09-10</guid>
+      <pubDate>Thu, 10 Sep 2026 05:00:00 -0500</pubDate>
+      <itunes:duration>24:43</itunes:duration>
+    </item>
+    <item>
+      <title>AI Daily Digest - September 09, 2026</title>
+      <description>Daily AI newsletter briefing for September 09, 2026.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-09-09.mp3" length="26235309" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-09-09</guid>
+      <pubDate>Wed, 09 Sep 2026 05:00:03 -0500</pubDate>
+      <itunes:duration>27:19</itunes:duration>
+    </item>
+    <item>
+      <title>AI Daily Digest - September 08, 2026</title>
+      <description>Daily AI newsletter briefing for September 08, 2026.</description>
+      <enclosure url="https://bronsonelliott.github.io/ai-digest-podcast/episodes/digest-2026-09-08.mp3" length="22644909" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 05:00:00 -0500</pubDate>
+      <itunes:duration>23:35</itunes:duration>
+    </item>
+    <!-- EPISODES_END -->
+
+  </channel>
+</rss>
